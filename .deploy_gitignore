@@ -1,0 +1,6 @@
+/storage/*.key
+/storage/logs/*.log
+/.idea
+.env
+/tests
+/*.log

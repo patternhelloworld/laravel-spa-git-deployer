@@ -1,0 +1,13 @@
+/node_modules
+/storage/*.key
+/storage/logs/*.log
+/vendor
+/.idea
+.env
+/public/*.js
+/public/js/*.js
+/public/css/*.css
+/public/css/
+/public/mix-manifest.json
+/*.log
+webpack.mix.js
